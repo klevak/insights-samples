@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 data/CustomerService.tar.gz
+
+purchase-predict/insights-connection-config
